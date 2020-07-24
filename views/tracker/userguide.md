@@ -9,6 +9,7 @@ description: User Guide For Tracker Data Browser view
 - [View](#view)
 - [Attendees](#attendees)
 - [Add Tools](#add-tools)
+- [Errors](#Errors)
 
 ## Introduction
 Does what it says. Believe me.
@@ -31,7 +32,7 @@ To view an existing tracker:
 1. Try navigate to tracker with the URL hyperlinked in the text as of step 7. of Create. Else [Navigate](/README.md#navigation) to the folder and expand the tracker filename.
 3. If valid, it shall display as follows
 
-<a href="https://ipfs.io/ipfs/Qmd4DysrX4vHKeb5ZtS8hTRsq7V7EY7atzhuQJQ34eTpHT?filename=Tacker_view_brave_UZIMXHetdd.png"><img src="https://ipfs.io/ipfs/Qmd4DysrX4vHKeb5ZtS8hTRsq7V7EY7atzhuQJQ34eTpHT?filename=Tacker_view_brave_UZIMXHetdd.png" alt="" style="border: 1; border-style:solid; border-color: rgb(200,200,200)"></a>
+![](https://ipfs.io/ipfs/Qmd4DysrX4vHKeb5ZtS8hTRsq7V7EY7atzhuQJQ34eTpHT?filename=Tacker_view_brave_UZIMXHetdd.png)
 
 Each meeting can have:
 - A title.
@@ -46,3 +47,9 @@ Additionally, you can:
 - Include a **Personal note of this meeting**.
 
 _**Tip:** If you have edit permissions to the meeting, any edits you make are immediately saved._
+
+## Error
+
+**PANIC **
+"You don't seem to have any workspaces. You have 1 storage spaces."
+"TypeError: Cannot read property 'id' of undefined"
